@@ -1,4 +1,3 @@
 ## Evolução dos exercícios
-
-Os primeiros exercícios fazem uma abordagem mais detalhada para que vocês configurem o ambiente e aprendam a usar o básico de Dotnet, VS Code, Git e Github (exercício 1 e 2). O restante dos exercícios são "hands on", vocês terão acesso aos requisitos de uma aplicação e deverão desenvolve-la, após isso podem comparar com a aplicação de exemplo pronta no repositório ou, se for necessário, podem consultar caso fiquem "travados" em algum ponto do exercício.
+Todos os exercicios são "hands on", vocês terão acesso aos requisitos de uma aplicação e deverão desenvolve-la.
 Tentei deixar uma evolução fluída para os exercícios, com uma progressão em que você possa estudar conceitos ou funcionalidades novas conforme avança. Os exercícios possuem alguns desafios para você praticar mais, se desejar, mas nem todos exemplos tem os desafios para consulta, o intuito é fazer você criar suas próprias soluções.
