@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\01_Calculadora\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

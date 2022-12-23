@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\bin\Debug\net6.0\ConversãoMoedas.exe
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\bin\Debug\net6.0\ConversãoMoedas.deps.json
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\bin\Debug\net6.0\ConversãoMoedas.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\bin\Debug\net6.0\ConversãoMoedas.dll
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\bin\Debug\net6.0\ConversãoMoedas.pdb
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\ConversãoMoedas.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\ConversãoMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\ConversãoMoedas.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\ConversãoMoedas.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\ConversãoMoedas.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\ConversãoMoedas.dll
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\refint\ConversãoMoedas.dll
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\ConversãoMoedas.pdb
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\ConversãoMoedas.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\05_ConversaoMoedas\ConversãoMoedas\ConversãoMoedas\obj\Debug\net6.0\ref\ConversãoMoedas.dll
