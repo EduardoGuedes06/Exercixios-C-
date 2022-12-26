@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\bin\Debug\net6.0\Array-tipe.exe
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\bin\Debug\net6.0\Array-tipe.deps.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\bin\Debug\net6.0\Array-tipe.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\bin\Debug\net6.0\Array-tipe.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\bin\Debug\net6.0\Array-tipe.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\Array-tipe.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\Array-tipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\Array-tipe.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\Array-tipe.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\Array-tipe.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\Array-tipe.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\refint\Array-tipe.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\Array-tipe.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\Array-tipe.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-Tipado\Array-tipe\Array-tipe\obj\Debug\net6.0\ref\Array-tipe.dll

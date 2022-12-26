@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\bin\Debug\net6.0\Array-list.exe
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\bin\Debug\net6.0\Array-list.deps.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\bin\Debug\net6.0\Array-list.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\bin\Debug\net6.0\Array-list.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\bin\Debug\net6.0\Array-list.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\Array-list.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\Array-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\Array-list.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\Array-list.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\Array-list.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\Array-list.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\refint\Array-list.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\Array-list.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\Array-list.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\01_Array-list\Array-list\obj\Debug\net6.0\ref\Array-list.dll
