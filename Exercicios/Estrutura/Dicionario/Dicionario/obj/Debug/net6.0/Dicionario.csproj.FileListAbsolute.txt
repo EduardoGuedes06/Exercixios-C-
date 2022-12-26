@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\bin\Debug\net6.0\Dicionario.exe
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\bin\Debug\net6.0\Dicionario.deps.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\bin\Debug\net6.0\Dicionario.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\bin\Debug\net6.0\Dicionario.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\bin\Debug\net6.0\Dicionario.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\Dicionario.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\Dicionario.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\Dicionario.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\Dicionario.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\Dicionario.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\refint\Dicionario.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\Dicionario.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\Dicionario.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Dicionario\Dicionario\obj\Debug\net6.0\ref\Dicionario.dll
