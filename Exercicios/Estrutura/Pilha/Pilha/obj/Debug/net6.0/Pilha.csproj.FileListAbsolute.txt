@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\bin\Debug\net6.0\Pilha.exe
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\bin\Debug\net6.0\Pilha.deps.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\bin\Debug\net6.0\Pilha.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\bin\Debug\net6.0\Pilha.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\bin\Debug\net6.0\Pilha.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\Pilha.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\Pilha.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\Pilha.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\Pilha.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\Pilha.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\refint\Pilha.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\Pilha.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\Pilha.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estrutura\Pilha\Pilha\obj\Debug\net6.0\ref\Pilha.dll
