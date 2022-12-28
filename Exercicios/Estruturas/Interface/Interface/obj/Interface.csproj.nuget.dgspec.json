@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Hands_On\\01_Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Estruturas\\Interface\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Hands_On\\01_Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj": {
+    "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Estruturas\\Interface\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Hands_On\\01_Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj",
-        "projectName": "Calculadora",
-        "projectPath": "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Hands_On\\01_Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Estruturas\\Interface\\Interface\\Interface.csproj",
+        "projectName": "Interface",
+        "projectPath": "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Estruturas\\Interface\\Interface\\Interface.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Hands_On\\01_Calculadora\\Calculadora\\Calculadora\\obj\\",
+        "outputPath": "C:\\Projetos\\C#\\Fundamenos C#\\Exercicios\\Estruturas\\Interface\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

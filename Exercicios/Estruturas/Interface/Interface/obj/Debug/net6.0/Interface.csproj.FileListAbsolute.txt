@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\bin\Debug\net6.0\Interface.exe
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\bin\Debug\net6.0\Interface.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\Interface.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
