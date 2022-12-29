@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\bin\Debug\net6.0\Linq.exe
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\bin\Debug\net6.0\Linq.deps.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\bin\Debug\net6.0\Linq.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\bin\Debug\net6.0\Linq.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\bin\Debug\net6.0\Linq.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\Linq.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\Linq.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\Linq.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\Linq.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\Linq.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\refint\Linq.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\Linq.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\Linq.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Linq\Linq\obj\Debug\net6.0\ref\Linq.dll
