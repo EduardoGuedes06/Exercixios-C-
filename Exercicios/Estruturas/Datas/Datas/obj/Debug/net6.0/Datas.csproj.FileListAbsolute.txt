@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\bin\Debug\net6.0\Datas.exe
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\bin\Debug\net6.0\Datas.deps.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\bin\Debug\net6.0\Datas.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\bin\Debug\net6.0\Datas.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\bin\Debug\net6.0\Datas.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\Datas.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\Datas.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\Datas.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\Datas.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\Datas.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\refint\Datas.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\Datas.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\Datas.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Datas\Datas\obj\Debug\net6.0\ref\Datas.dll
