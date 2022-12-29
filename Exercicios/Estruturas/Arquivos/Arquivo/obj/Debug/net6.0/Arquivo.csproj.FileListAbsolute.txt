@@ -1,0 +1,15 @@
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\bin\Debug\net6.0\Arquivo.exe
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\bin\Debug\net6.0\Arquivo.deps.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\bin\Debug\net6.0\Arquivo.runtimeconfig.json
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\bin\Debug\net6.0\Arquivo.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\bin\Debug\net6.0\Arquivo.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\Arquivo.csproj.AssemblyReference.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\Arquivo.AssemblyInfoInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\Arquivo.AssemblyInfo.cs
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\Arquivo.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\Arquivo.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\refint\Arquivo.dll
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\Arquivo.pdb
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\Arquivo.genruntimeconfig.cache
+C:\Projetos\C#\Fundamenos C#\Exercicios\Estruturas\Arquivos\Arquivo\obj\Debug\net6.0\ref\Arquivo.dll
